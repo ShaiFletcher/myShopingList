@@ -1,1 +1,4 @@
-console.log(hi);
+//add three var to js
+const list = document.querySelector('ul');
+const input = document.querySelector('input');
+const button = document.querySelector('button');
